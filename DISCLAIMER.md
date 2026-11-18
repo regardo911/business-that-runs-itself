@@ -1,0 +1,6 @@
+<!-- Disclaimer for the whole repository. -->
+# Disclaimer
+
+Unofficial: the Claude for Small Business plugin is Anthropic's product. This repository is independent and is not affiliated with or endorsed by Anthropic.
+
+**Not financial, tax, legal or HR advice.** This repository holds educational templates that accompany the book *Claude for Small Business - The Business That Runs Itself*. They are provided for learning only. None of it is financial, tax, legal or HR advice, or a recommendation to take any business action. Running a business, handling payroll, refunds and taxes, and selling a service to others all carry real risk of loss. Example figures (the pool company, the $1,500 setup price, the teardown savings) are illustrative and do **not** predict your results. The authors and contributors make **no warranty** of any kind and accept **no liability** for any loss arising from use of these templates. The plugin these templates feed is built so that "Claude does the work; you approve before anything sends, posts, or pays." Keep that approval step on. You are solely responsible for your own decisions and for complying with the laws, regulations and third-party terms that apply to you. Consult a qualified accountant, lawyer or HR professional before acting.

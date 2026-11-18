@@ -1,0 +1,11 @@
+﻿Tool,Monthly cost,What it does,Keep / cut / downgrade,What replaces it,After cost,Monthly savings,Cancel/downgrade by,Notes
+QuickBooks,$30,"Books, invoicing",Keep,Connector — not replaced,$30,$0,—,"Spine tool, stays"
+Standalone invoice-chaser,$29,Overdue reminders,Cut,invoice-chase via /plan-payroll,$0,$29,___,Cancel after 2 verified cycles
+Social scheduler,$49,Schedules posts,Cut,social-content-engine,$0,$49,___,—
+Email-marketing tool,$39,Email campaigns,Cut,content-strategy + canva-creator,$0,$39,___,canva-creator drafts the email copy; you send it from your own email tool
+Help-desk (3 seats),$75,Support inboxes,Downgrade,ticket-deflector,$25,$50,___,Drop to 1 seat
+Appointment-booking app,$30,Scheduling,Cut,Calendar connector + growth loop,$0,$30,___,—
+Reporting dashboard,$20,Business reports,Cut,/monday-brief + month-end-prep,$0,$20,___,—
+Canva,$15,Design assets,Keep,Connector — canva-creator needs it,$15,$0,—,"Required, stays"
+Claude Pro,—,The assistant itself,Add,The new system,$20,-$20,—,Count it honestly
+Total,$287,—,—,—,$90,$197,—,"~$2,364/yr"
